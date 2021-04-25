@@ -27,3 +27,4 @@ jinfei_chen@icloud.com, jinfei_chen@icloud.com
 ## License
 
 IMSCrash is available under the MIT license. See the LICENSE file for more info.
+# IMSCrash
