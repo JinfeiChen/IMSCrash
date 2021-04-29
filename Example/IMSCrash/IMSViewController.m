@@ -18,6 +18,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    // TODO: 未处理addObject是nil的情况
+    NSMutableArray *mArr = [NSMutableArray array];
+//    [mArr addObject:nil];
 }
 
 - (void)didReceiveMemoryWarning
